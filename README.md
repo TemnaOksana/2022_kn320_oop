@@ -14,6 +14,6 @@
       <svg class="icon" viewBox="0 0 24 24">
 ```
 ## :cloud: Фото єнота. :cloud:
-![any text](https://github.com/TemnaOksana/2022_kn320_oop/blob/main/init/enot.jpg?raw=true)
+![any text](https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/enot.jpg)
 
 --------
