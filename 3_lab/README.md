@@ -12,10 +12,10 @@
     * :cloud: Скопіювала Python код та натиснула трикутник
     результат виконання коду 
     #### Рис. 1
-    https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/66.jpg
+![any text](https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/66.jpg)
     * :cloud: Модифікувала програму додавши своє імя в список
     #### Рис. 2
-    https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/32.jpg
+![any text](https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/32.jpg)
     - :cloud:  Відповіді на запитання
 ```python
         def say_hello(message="Добрий день, everybody!"):
@@ -28,5 +28,5 @@
 ----
 ----
 
-## Висновок:
+# Висновок:
 :cloud: Під час виконання лабораторної роботи Я навчилась працювати з класами та обєктами.
