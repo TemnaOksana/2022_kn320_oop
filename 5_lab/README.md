@@ -14,7 +14,7 @@
     assert number < 0, "число має бути меншим за нуль!"
     ```
 #### Рис. 1
-    ![any text](https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/51.jpg)
+![any text](https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/51.jpg)
 2. ## :cloud: Створила власний крок `assert` та зробила тестові превірки при введенні даних з клавіатури. Для цього використала метод `input`:
     ```python
     a = input("Введіть число- ")
