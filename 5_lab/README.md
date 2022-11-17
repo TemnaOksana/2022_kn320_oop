@@ -21,7 +21,7 @@
     assert a.isdigit(), "ВВЕДИ ЧИСЛО!!!"
     print(f"введене число- {a}")
     ```
-    #### Рис. 2
+#### Рис. 2
 ![any text](https://github.com/TemnaOksana/2022_kn320_oop/raw/main/photo/52.jpg)
 
 3. ## :cloud: Перевірка (валідація)
